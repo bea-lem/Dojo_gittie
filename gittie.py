@@ -7,3 +7,7 @@ def add(a,b):
     a = input("First number: ")
     b = input("Second number: ")
 return add(a,b)
+
+
+def shout():
+    print("this is function shout")
