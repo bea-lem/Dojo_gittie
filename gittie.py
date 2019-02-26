@@ -12,3 +12,4 @@ return add(a,b)
 
 def shout():
     print("this is function shout")
+    print("zmiana")
